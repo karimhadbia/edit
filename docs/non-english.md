@@ -82,6 +82,7 @@
 * ⭐ **[Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html)** - Bangla Typing Tool / Spellcheck / [WebUI](https://avro.im/)
 * [aapathshala](https://aapathshala.com/library/) - Test Practice
 * [Python Maateen](https://python.maateen.me/) - Python Guide
+* [koora live](http://koora4liive.com/) - koora live
 * [Chorcha](https://chorcha.net/) - Test Prep App
 
 ## ▷ Reading / পড়া
